@@ -5,10 +5,6 @@
    Modified 4/16/2017
 
    This is the main file for controlling the juggling robot.
-
-   Version 1.0: This enters an open loop control sequence for one motor
-   with one encoder, using one thread, and one pre-planned angular velocity
-   trajectory. 
 */
 
 #include <stdint.h>
